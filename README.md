@@ -1,1 +1,1 @@
-# 528-Final-Project
+This project focuses on developing an application that utilizes inertial measurement units (IMUs) to track jaw movements during speech articulation and processing this data to recognize specific words without requiring voice input. The ultimate goal is to develop a machine-learning model capable of analyzing the data collected by the IMU and accurately recognizing and differentiating between words
